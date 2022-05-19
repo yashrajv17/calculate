@@ -1,0 +1,36 @@
+html,
+body {
+        
+    height: 100%;
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+
+.container{
+    /* background-color: black; */
+    padding: 8px;
+}
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    
+}
+
+.row {
+    margin: 8px 0;
+    
+}
+
+.row input {
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border-radius: 10px;
+}
